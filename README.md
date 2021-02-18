@@ -13,4 +13,4 @@ This website was deployed through firebase hosting [Click Here to visit the live
 <img src="Screenshots/s1.png">
 
 ### Cart Page
-<img src="Screenshots/s.png">
+<img src="Screenshots/s3.png">
