@@ -13,7 +13,7 @@ This website was deployed through firebase hosting [Click Here to visit the live
   <li>User Accounts</li>
 </ul>
 
-**** Note: REAL-TIME DATABASE & STRIPE PAYMENTS WILL BE UPDATED SOON 
+**** Note: REAL-TIME DATABASE & STRIPE PAYMENTS WILL BE UPDATED SOON ****
 
 ## Previews
 
