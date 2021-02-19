@@ -15,7 +15,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 
 const promise = loadStripe(
-  "pk_test_51IMdcGI6QOsuJSvpOQlJcMue3pdhTNMtzUE6wM1f05J7kYIH1wnmTatO039ye7i17tpCEM2Qmuhbz6OJtEReDOgO00DZepgmh7"
+  "Enter your test key here"
 )
 
 
